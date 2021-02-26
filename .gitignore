@@ -4,4 +4,4 @@ model
 train
 train_
 val
-csv
+*.csv
